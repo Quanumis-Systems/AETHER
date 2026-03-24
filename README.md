@@ -1,4 +1,4 @@
-# AETHER: Agentic ESG & Trajectory Engine for Industrial Operations
+# AETHER: Agentic Environmental & Technical Holistic Emergent Response
 
 AETHER is a multi-tiered, production-grade Ignition 8 module designed to bridge high-speed industrial telemetry with advanced Local Large Language Models (LLMs) and Model Context Protocols (MCP). It operates via a "Negative Feedback Loop," ensuring manufacturing facilities dynamically balance Yield, Safety, and Compliance (ESG) in real-time.
 
