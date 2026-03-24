@@ -1,0 +1,16 @@
+# Build artifacts
+/build/
+/.gradle/
+/out/
+/lib/
+
+# Node modules
+node_modules/
+/perspective/perspective-components/node_modules/
+/perspective/perspective-components/dist/
+
+# IDE/System
+.idea/
+.vscode/
+*.iml
+.DS_Store
